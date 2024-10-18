@@ -1,2 +1,1 @@
-# sphere-
-sphere  with three js 
+# spher
